@@ -9258,10 +9258,10 @@ tinycolor2@^1.4.1:
   resolved "https://registry.npm.taobao.org/tinycolor2/download/tinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
   integrity sha1-9PrTM0R7wLB9TcjpIJ2POaisd+g=
 
-tinymce@^5.0.13:
-  version "5.1.0"
-  resolved "https://registry.npm.taobao.org/tinymce/download/tinymce-5.1.0.tgz#34eff28ada9b93305a0d08860cf82d2edff269ca"
-  integrity sha1-NO/yitqbkzBaDQiGDPgtLt/yaco=
+tinymce@^5.9.0:
+  version "5.9.0"
+  resolved "https://registry.npmmirror.com/tinymce/download/tinymce-5.9.0.tgz#c579ab337e315cc54f568f65d081002e6e1dc3e6"
+  integrity sha1-xXmrM34xXMVPVo9l0IEALm4dw+Y=
 
 tmp@^0.0.33:
   version "0.0.33"
