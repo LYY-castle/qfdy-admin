@@ -41,7 +41,7 @@
     "moment": "^2.24.0",
     "nprogress": "^0.2.0",
     "os": "^0.1.1",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "script-loader": "^0.7.2",
     "tinymce": "^5.0.13",
     "uglifyjs-webpack-plugin": "^2.2.0",
